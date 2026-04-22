@@ -1,0 +1,8 @@
+﻿{
+  "version": "2.0",
+  "routeKey": "POST /auth/register",
+  "rawPath": "/auth/register",
+  "requestContext": {"http": {"method": "POST"}},
+  "body": "{\"username\":\"testuser_direct\",\"password\":\"test123\",\"name\":\"Test\",\"email\":\"direct@test.com\"}",
+  "isBase64Encoded": false
+}

@@ -1,0 +1,6 @@
+﻿{
+  "httpMethod": "POST",
+  "path": "/prod/auth/register",
+  "headers": {"Content-Type": "application/json"},
+  "body": "{\"username\":\"testuser_prod\",\"password\":\"test123\",\"name\":\"Test\",\"email\":\"prod@test.com\"}"
+}
