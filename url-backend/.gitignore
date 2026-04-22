@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Lambda Packaging Artifacts ###
+lambda-code.zip
+lambda-layer.zip
+deployed-check.zip
+lambda-layer/java/lib/
+com/**/*.class
